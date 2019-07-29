@@ -3,10 +3,10 @@ Thank you for reviewing my Data Incubaor Application.
 
 This repo is aiming  to provide all the code and content for my Data Incubator challenge including the questiones and the project.
 
-Challenge Questions File:
+Challenge Questions:
 The answers for Section 1 (Baltimore Parking Citations) and section 2 (Kinight Moves) are available here.
 
-Below is my project propal, you could find my code and plot in the project file.
+Below is my project propal, you could find my code and plot in the project py file.
 
 # DotA2 Win Probability Prediction Based on Hero Lineups
 ## Introduction and Motivation:
