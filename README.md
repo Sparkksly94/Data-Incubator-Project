@@ -21,7 +21,7 @@ Due to the API calls rate limit, I can only retrieve the data of around 5000 mat
 ## Exploratory data analysis：
 Since each DotA2 game has two sides, one is “Radiant” and the other is “Dire”, the first thing I calculate is the winrate of each side. The DotA2 map is not symmetrical, yet there are only little difference between each side, people just assumed the winrate to be fifty-fifty. However, based on my calculations, ‘Radiant’ has 58.6% win rate which is 17.2% higher than the ‘Dire’ Team, which is absolutely not inconsiderable.  
 
-There are 118 heroes in the game, of course some of them are popular among players but are they as powerful as people think? I sorted heroes’ pick rate to found the 15 most popular heroes and calculate their winrate. It is shocking that the most popular hero, ‘Magnus’, who was picked 35 times in 50 matches, had only less than 9% win rate in high level games.   
+There are 118 heroes in the game, of course some of them are popular among players but are they as powerful as people think? I sorted heroes’ pick rate to found the 15 most popular heroes and calculate their winrate. The most popular is picked every three games and still have 50%+ win rate. It appears that all popular heroes have 50%+ win rate, which means that people do prefer more powerful heroes.   
 
 I also took a look at the relationship between heroes and the duration of the games. In my opinion, if a hero presents often in long games, then they either has weak attack ability or strong defense ability.   
 
